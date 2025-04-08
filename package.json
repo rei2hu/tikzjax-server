@@ -9,7 +9,7 @@
   "license": "GPL-3.0",
   "description": "",
   "dependencies": {
-	"dvi2html": "git://github.com/artisticat1/dvi2html#4684e25d25bc7cbac18cdf3d64ba888f00cbf179",
+    "dvi2html": "git://github.com/artisticat1/dvi2html#4684e25d25bc7cbac18cdf3d64ba888f00cbf179",
     "pako": "^2.1.0"
   }
 }

@@ -3,7 +3,7 @@ import { tfmData } from "dvi2html";
 /****************************************************************/
 // fake files
 
-import filesystem from "./filesystem.json" assert { type: "json" };
+import filesystem from "./filesystem.json" with { type: "json" };
 var files = [];
 
 export function deleteEverything() {
